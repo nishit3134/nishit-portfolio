@@ -24,7 +24,7 @@ const Navbar = () => {
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white font-bold cursor-pointer text-[18px]">
             Nishit
-            <span className="font-semibold sm:block hidden text-[12px]">
+            <span className="sm:block hidden font-semibold text-[12px]">
               {" "}
               | JS Mastery
             </span>
